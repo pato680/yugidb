@@ -1,0 +1,356 @@
+{
+ "es": {
+  "support_title": "Yugi DB — Soporte",
+  "privacy_title": "Yugi DB — Política de privacidad",
+  "nav_support": "Soporte",
+  "nav_privacy": "Privacidad",
+  "h1": "Soporte",
+  "intro": "Yugi DB es una app para llevar el registro de tu colección de cartas: escanearlas con la cámara, buscarlas sin internet y saber cuánto valen.",
+  "contact_h": "Contacto",
+  "contact_p": "Escribinos a <a href=\"mailto:patricioj680@gmail.com\">patricioj680@gmail.com</a>. Contanos qué teléfono usás y qué versión de la app, que figura al final de Ajustes.",
+  "faq_h": "Preguntas frecuentes",
+  "faq": [
+   [
+    "La app abre en una pantalla de descarga",
+    "Es el primer paso, una sola vez. Tocá <strong>Descargar</strong> para bajar la base de cartas (unos 3 MB). Necesita conexión y tarda unos segundos. Después la app funciona sin internet."
+   ],
+   [
+    "El escáner no reconoce una carta",
+    "Buscala por nombre desde la pestaña Buscar y agregala a mano. El reconocimiento depende de la luz y del enfoque: probá con la carta plana, bien iluminada y sin reflejos sobre la funda."
+   ],
+   [
+    "Los precios no coinciden con lo que veo en otro lado",
+    "Los precios vienen de datos de TCGplayer y se actualizan una vez por día. Son una referencia de mercado, no una cotización en vivo, y varían por edición y estado de la carta."
+   ],
+   [
+    "¿Puedo sacar mis datos de la app?",
+    "Sí. En <strong>Ajustes → Tus datos → Exportar colección</strong> generás un archivo CSV que se abre en Excel o Sheets y podés guardar donde quieras."
+   ],
+   [
+    "¿Se pierde mi colección si borro la app?",
+    "Sí. Todo se guarda solo en tu dispositivo, así que conviene exportar el CSV cada tanto como respaldo."
+   ]
+  ],
+  "foot1": "Datos de cartas por YGOPRODeck. Precios provenientes de TCGplayer.",
+  "foot2": "Yugi DB es una app independiente, sin afiliación ni respaldo de Konami.",
+  "p_h1": "Política de privacidad",
+  "p_updated": "Última actualización: 18 de agosto de 2026",
+  "p_sections": [
+   [
+    "Resumen",
+    [
+     "Yugi DB no recopila, almacena ni comparte datos personales. No hay cuentas, no hay registro y no hay seguimiento de ningún tipo."
+    ]
+   ],
+   [
+    "Qué datos guarda la app",
+    [
+     "Todo lo que registrás — tus cartas, colecciones, decks, wishlist y favoritas — se guarda <strong>únicamente en tu dispositivo</strong>, en una base de datos local. Esa información no se envía a ningún servidor, ni al desarrollador ni a terceros.",
+     "Si borrás la app, esos datos se borran con ella. La función «Exportar colección» genera un archivo CSV que vos elegís dónde guardar o con quién compartir; la app no lo envía a ningún lado por su cuenta."
+    ]
+   ],
+   [
+    "Cámara",
+    [
+     "La app pide acceso a la cámara para reconocer cartas por escaneo. <strong>Las imágenes se procesan enteramente en tu dispositivo y nunca se transmiten.</strong> No se guardan fotos, no se suben a ningún servidor y el desarrollador no tiene forma de verlas."
+    ]
+   ],
+   [
+    "Conexiones a servicios externos",
+    [
+     "La app se conecta a estos servicios públicos únicamente para descargar información de cartas. En ninguna de esas peticiones se envía información personal ni identificadores tuyos:",
+     "TABLE",
+     "Como en cualquier petición de internet, esos servicios reciben tu dirección IP, algo inherente al funcionamiento de la red. La app no les envía nada más. Cada uno tiene sus propias prácticas de privacidad, sobre las que el desarrollador no tiene control."
+    ]
+   ],
+   [
+    "Lo que la app NO hace",
+    [
+     "LIST"
+    ]
+   ],
+   [
+    "Menores",
+    [
+     "La app no recopila datos de ninguna persona, sin importar su edad."
+    ]
+   ],
+   [
+    "Cambios",
+    [
+     "Si esta política cambia, la versión actualizada se publica en esta misma dirección con su fecha."
+    ]
+   ],
+   [
+    "Contacto",
+    [
+     "Por dudas sobre esta política: <a href=\"mailto:patricioj680@gmail.com\">patricioj680@gmail.com</a>"
+    ]
+   ]
+  ],
+  "t_head": [
+   "Servicio",
+   "Para qué"
+  ],
+  "t_rows": [
+   [
+    "db.ygoprodeck.com",
+    "Base de datos de cartas y sus precios"
+   ],
+   [
+    "images.ygoprodeck.com",
+    "Imágenes de las cartas"
+   ],
+   [
+    "tcgcsv.com",
+    "Precios de mercado provenientes de TCGplayer"
+   ],
+   [
+    "yugipedia.com",
+    "Imágenes de impresiones específicas"
+   ]
+  ],
+  "nots": [
+   "No usa analítica, telemetría ni herramientas de medición.",
+   "No usa identificadores de publicidad (IDFA) ni hace seguimiento entre apps.",
+   "No muestra publicidad.",
+   "No comparte ni vende datos, porque no los tiene."
+  ]
+ },
+ "en": {
+  "support_title": "Yugi DB — Support",
+  "privacy_title": "Yugi DB — Privacy Policy",
+  "nav_support": "Support",
+  "nav_privacy": "Privacy",
+  "h1": "Support",
+  "intro": "Yugi DB keeps track of your trading card collection: scan cards with the camera, search them offline, and know what they are worth.",
+  "contact_h": "Contact",
+  "contact_p": "Email us at <a href=\"mailto:patricioj680@gmail.com\">patricioj680@gmail.com</a>. Tell us which phone you use and which app version — it is shown at the bottom of Settings.",
+  "faq_h": "Frequently asked questions",
+  "faq": [
+   [
+    "The app opens on a download screen",
+    "That is the first step, once only. Tap <strong>Download</strong> to fetch the card database (about 3 MB). It needs a connection and takes a few seconds. After that the app works offline."
+   ],
+   [
+    "The scanner does not recognize a card",
+    "Search it by name from the Search tab and add it manually. Recognition depends on light and focus: try the card flat, well lit, and without glare on the sleeve."
+   ],
+   [
+    "Prices do not match what I see elsewhere",
+    "Prices come from TCGplayer data and refresh once a day. They are a market reference, not a live quote, and vary by printing and card condition."
+   ],
+   [
+    "Can I get my data out of the app?",
+    "Yes. Under <strong>Settings → Your data → Export collection</strong> you get a CSV file that opens in Excel or Sheets and you can save anywhere."
+   ],
+   [
+    "Do I lose my collection if I delete the app?",
+    "Yes. Everything is stored only on your device, so it is worth exporting the CSV every now and then as a backup."
+   ]
+  ],
+  "foot1": "Card data by YGOPRODeck. Prices sourced from TCGplayer.",
+  "foot2": "Yugi DB is an independent app, not affiliated with or endorsed by Konami.",
+  "p_h1": "Privacy Policy",
+  "p_updated": "Last updated: August 18, 2026",
+  "p_sections": [
+   [
+    "Summary",
+    [
+     "Yugi DB does not collect, store or share personal data. There are no accounts, no sign-up and no tracking of any kind."
+    ]
+   ],
+   [
+    "What the app stores",
+    [
+     "Everything you record — your cards, collections, decks, wishlist and favorites — is stored <strong>only on your device</strong>, in a local database. That information is never sent to any server, neither to the developer nor to third parties.",
+     "If you delete the app, that data goes with it. The “Export collection” feature creates a CSV file that you choose where to save or share; the app never sends it anywhere on its own."
+    ]
+   ],
+   [
+    "Camera",
+    [
+     "The app requests camera access to recognize cards by scanning. <strong>Images are processed entirely on your device and are never transmitted.</strong> No photos are stored, nothing is uploaded, and the developer has no way to see them."
+    ]
+   ],
+   [
+    "Connections to external services",
+    [
+     "The app connects to these public services solely to download card information. None of those requests include personal information or identifiers about you:",
+     "TABLE",
+     "As with any internet request, those services receive your IP address, which is inherent to how networking works. The app sends them nothing else. Each has its own privacy practices, over which the developer has no control."
+    ]
+   ],
+   [
+    "What the app does NOT do",
+    [
+     "LIST"
+    ]
+   ],
+   [
+    "Children",
+    [
+     "The app collects no data from anyone, regardless of age."
+    ]
+   ],
+   [
+    "Changes",
+    [
+     "If this policy changes, the updated version is published at this same address with its date."
+    ]
+   ],
+   [
+    "Contact",
+    [
+     "Questions about this policy: <a href=\"mailto:patricioj680@gmail.com\">patricioj680@gmail.com</a>"
+    ]
+   ]
+  ],
+  "t_head": [
+   "Service",
+   "Purpose"
+  ],
+  "t_rows": [
+   [
+    "db.ygoprodeck.com",
+    "Card database and prices"
+   ],
+   [
+    "images.ygoprodeck.com",
+    "Card images"
+   ],
+   [
+    "tcgcsv.com",
+    "Market prices sourced from TCGplayer"
+   ],
+   [
+    "yugipedia.com",
+    "Images of specific printings"
+   ]
+  ],
+  "nots": [
+   "No analytics, telemetry or measurement tools.",
+   "No advertising identifiers (IDFA) and no cross-app tracking.",
+   "No advertising.",
+   "No sharing or selling of data, because there is none."
+  ]
+ },
+ "pt": {
+  "support_title": "Yugi DB — Suporte",
+  "privacy_title": "Yugi DB — Política de privacidade",
+  "nav_support": "Suporte",
+  "nav_privacy": "Privacidade",
+  "h1": "Suporte",
+  "intro": "Yugi DB mantém o registro da sua coleção de cartas: escanear com a câmera, buscar sem internet e saber quanto valem.",
+  "contact_h": "Contato",
+  "contact_p": "Escreva para <a href=\"mailto:patricioj680@gmail.com\">patricioj680@gmail.com</a>. Conte qual celular você usa e qual versão do app, que aparece no final de Ajustes.",
+  "faq_h": "Perguntas frequentes",
+  "faq": [
+   [
+    "O app abre numa tela de download",
+    "É o primeiro passo, uma vez só. Toque em <strong>Baixar</strong> para trazer a base de cartas (uns 3 MB). Precisa de conexão e leva alguns segundos. Depois o app funciona sem internet."
+   ],
+   [
+    "O escâner não reconhece uma carta",
+    "Busque pelo nome na aba Buscar e adicione manualmente. O reconhecimento depende da luz e do foco: tente com a carta plana, bem iluminada e sem reflexo na sleeve."
+   ],
+   [
+    "Os preços não batem com o que vejo em outro lugar",
+    "Os preços vêm de dados do TCGplayer e são atualizados uma vez por dia. São referência de mercado, não cotação ao vivo, e variam por edição e estado da carta."
+   ],
+   [
+    "Posso tirar meus dados do app?",
+    "Sim. Em <strong>Ajustes → Seus dados → Exportar coleção</strong> você gera um arquivo CSV que abre no Excel ou Sheets e pode guardar onde quiser."
+   ],
+   [
+    "Perco minha coleção se apagar o app?",
+    "Sim. Tudo fica salvo só no seu aparelho, então vale exportar o CSV de vez em quando como backup."
+   ]
+  ],
+  "foot1": "Dados de cartas por YGOPRODeck. Preços provenientes do TCGplayer.",
+  "foot2": "Yugi DB é um app independente, sem afiliação nem endosso da Konami.",
+  "p_h1": "Política de privacidade",
+  "p_updated": "Última atualização: 18 de agosto de 2026",
+  "p_sections": [
+   [
+    "Resumo",
+    [
+     "Yugi DB não coleta, armazena nem compartilha dados pessoais. Não há contas, não há cadastro e não há rastreamento de nenhum tipo."
+    ]
+   ],
+   [
+    "Que dados o app guarda",
+    [
+     "Tudo o que você registra — suas cartas, coleções, decks, wishlist e favoritas — fica salvo <strong>apenas no seu aparelho</strong>, num banco de dados local. Essa informação não é enviada a nenhum servidor, nem ao desenvolvedor nem a terceiros.",
+     "Se você apagar o app, esses dados vão junto. A função “Exportar coleção” gera um arquivo CSV que você escolhe onde salvar ou com quem compartilhar; o app não o envia a lugar nenhum por conta própria."
+    ]
+   ],
+   [
+    "Câmera",
+    [
+     "O app pede acesso à câmera para reconhecer cartas por escaneamento. <strong>As imagens são processadas inteiramente no seu aparelho e nunca são transmitidas.</strong> Nenhuma foto é salva, nada é enviado, e o desenvolvedor não tem como vê-las."
+    ]
+   ],
+   [
+    "Conexões a serviços externos",
+    [
+     "O app se conecta a estes serviços públicos apenas para baixar informação de cartas. Nenhuma dessas requisições envia informação pessoal ou identificadores seus:",
+     "TABLE",
+     "Como em qualquer requisição de internet, esses serviços recebem seu endereço IP, algo inerente ao funcionamento da rede. O app não envia mais nada. Cada um tem suas próprias práticas de privacidade, sobre as quais o desenvolvedor não tem controle."
+    ]
+   ],
+   [
+    "O que o app NÃO faz",
+    [
+     "LIST"
+    ]
+   ],
+   [
+    "Menores",
+    [
+     "O app não coleta dados de nenhuma pessoa, independentemente da idade."
+    ]
+   ],
+   [
+    "Mudanças",
+    [
+     "Se esta política mudar, a versão atualizada é publicada neste mesmo endereço com sua data."
+    ]
+   ],
+   [
+    "Contato",
+    [
+     "Dúvidas sobre esta política: <a href=\"mailto:patricioj680@gmail.com\">patricioj680@gmail.com</a>"
+    ]
+   ]
+  ],
+  "t_head": [
+   "Serviço",
+   "Para quê"
+  ],
+  "t_rows": [
+   [
+    "db.ygoprodeck.com",
+    "Banco de dados de cartas e seus preços"
+   ],
+   [
+    "images.ygoprodeck.com",
+    "Imagens das cartas"
+   ],
+   [
+    "tcgcsv.com",
+    "Preços de mercado provenientes do TCGplayer"
+   ],
+   [
+    "yugipedia.com",
+    "Imagens de impressões específicas"
+   ]
+  ],
+  "nots": [
+   "Não usa analytics, telemetria nem ferramentas de medição.",
+   "Não usa identificadores de publicidade (IDFA) nem rastreia entre apps.",
+   "Não exibe publicidade.",
+   "Não compartilha nem vende dados, porque não os tem."
+  ]
+ }
+}
