@@ -21,3 +21,13 @@ code{background:var(--plate);padding:2px 6px;border-radius:3px;font-size:14px;co
 .card p{margin:0}
 footer{margin-top:64px;padding-top:20px;border-top:1px solid #3e4757;color:var(--dim);font-size:13px}
 nav a{margin-right:18px;font-weight:700;text-decoration:none}
+
+/* selector de idioma */
+.topline{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.langs{display:flex;gap:4px}
+.langs .lg{display:inline-block;padding:5px 11px;border:2px solid #3e4757;color:var(--dim);
+  font-size:12px;font-weight:800;text-decoration:none;letter-spacing:.5px}
+.langs .lg:hover{border-color:var(--mist);color:var(--mist)}
+.langs .lg.on{background:var(--crimson);border-color:var(--crimson);color:#fff}
+nav{margin-top:16px}
+.upd{font-size:14px;margin-top:0}
